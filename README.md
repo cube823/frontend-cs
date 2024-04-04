@@ -9,7 +9,7 @@ Eazel 의 Frontend 팀이 CS 를 공부하는 레포지토리입니다.
 ## 스터디 멤버
 |                                      임미연                                       |                                      이준희                                       |                                      윤민기                                       |                                                                            |  
 |:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|
-| <img src="https://avatars.githubusercontent.com/u/12455531?v=4" width="100" /> | <img src="https://avatars.githubusercontent.com/u/54658162?v=4" width="100" /> | <img src="https://avatars.githubusercontent.com/u/54797868?v=4" width="100" /> | <img src="https://avatars.githubusercontent.com/u/48994100?v=4" width="100"/> |
+|  | <img src="https://avatars.githubusercontent.com/u/54658162?v=4" width="100" /> | <img src="https://avatars.githubusercontent.com/u/54797868?v=4" width="100" /> |  |
 |                           |               [Junhee (@junh0328)](https://github.com/junh0328)                |                 [Minky (@cube823)](https://github.com/cube823)                 |                         |
 
 ## 스터디 진행 방식
